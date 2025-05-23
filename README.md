@@ -1,6 +1,6 @@
 # Contact-Hub
 
-A modern contact management system built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A robust REST API built with Express.js and MongoDB for managing contacts with secure user authentication.
 
 ## Features
 
